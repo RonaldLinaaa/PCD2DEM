@@ -11,7 +11,7 @@
 可根据需要修改`run_generate.py`里的`file_path`和参数。
 
 ```
-file_path = "../pcd_data//point_cloud.ply"
+file_path = "../pcd_data/point_cloud.ply"
 ground_fliter = None  # 是否进行地面点提取
 color_data = True  # 是否保留颜色信息
 method = "idw"  # "idw" or "kriging"
